@@ -12,11 +12,10 @@
 
 ## Game plan
 
-This section outlines the overall set of guidelines regarding the logistics of the mentoring: session, communications, etc. 
-They are subject to adjustment at discression of the involved parties.
+This section outlines the overall set of guidelines regarding the logistics of the mentoring, specifically Rock'n roll payroll exercise.
 
 1. Mentoring sessions are to be help twice a week (agreed days: Tuesdays and Thursdays)
-2. The sessions are held without agenda, but with focus on question solving, review of advance and discussion of new concepts/topics
+2. The sessions are held without agenda, but with focus on question solving, review of advance and discussion of Rock'n roll payroll exercise.
 3. The session days have a general purpose as defined below:
 	* Tuesdays: follow up on current assignments, review of any pending questions or doubts
 	* Thursdays: target day for deliverables, closing of issues/assignments and start of new issues/assignments
@@ -25,13 +24,10 @@ They are subject to adjustment at discression of the involved parties.
 
 ## Assignments and Issue tracking 
 
-All new assignments will be entered onto this repository as [issues](https://github.com/CarterLankford/MentorExercises/issues), with the following categories:
+All new assignments will be entered onto this repository as [issues](https://github.com/CarterLankford/rock-n-roll-payroll/issues), with the following categories:
 
-* Algorithms: These correspond to problems that require ingenuity and creativity in providing a repeatable, efficient solution to a problem
-* Java Exercises: These correspond to language specific problems and programming concepts
-* Logic Problems: These correspond to challenges that do not require coding, but help to deepen the understanding of programming in general
+* To be added at a later date
 
-And whatever new categories are needed according to the topic being discussed (i.e. Data Structures).
 
 Some issues may be resolved within the same issue page with no code change (for example logic problems); code changes should be perfomed according to following workflow:
 
